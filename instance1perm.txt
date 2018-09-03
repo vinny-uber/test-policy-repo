@@ -5,3 +5,9 @@ teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	fals
 teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
 teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
 teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
+
+
+
+
+teststore       uon     /keyspace1/table1       EMPLOYEE        engsecemployee01@uber.com       foo1=bar        false   de2b6e21-5450-4720-b152-8dd39d0f22a2            1535659661767564
+teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
