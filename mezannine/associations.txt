@@ -1,26 +1,12 @@
-teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
-teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
-teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
-teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
-teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
-teststore	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564 
-
-allcustsinst	uon	/allcustsstore	CUSTOMER	*		false	7789a653-651d-4b3f-86ad-2945433621ae		1535659662228660
-polizei	uon	/keyspace1/table1	ADGROUP	adgr1		true	b8ed3471-0696-4b25-a206-2bc7db4f6f36		1535659659314093
-polizei	uon	/keyspace1/table1	ADGROUP	engineering	foo2=bar	false	d908d6dc-cd93-47fd-bffd-22fc99b0f0bf		1535659662650587
-polizei	uon	/keyspace1/table1	CUSTOMER	0384f9cb-2f99-4b58-82e7-59468cb0e6e2	foo=bar	false	264007c7-7849-4702-b3c6-8d9829345f0b		1535659661328237
-polizei	uon	/keyspace1/table1	CUSTOMER	bd48adda-7d54-4353-87c8-a70782d9390c		false	3cf85d13-5c39-4367-bee6-3de7af1879fc		1535659663063015
-polizei	uon	/keyspace1/table1	EMPLOYEE	emp1	foo1=bar	false	c7030c69-9b53-49bc-8cec-99677d74e0fc		1535659662630061
-polizei	uon	/keyspace1/table1	EMPLOYEE	emp1@uber.com	foo1=bar	false	c7030c69-9b53-49bc-8cec-99677d74e0fc		1535659662630061
-polizei	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564
-polizei	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564
-allcustsinst	uon	/allcustsstore	CUSTOMER	*		false	7789a653-651d-4b3f-86ad-2945433621ae		1535659662228660
-polizei	uon	/keyspace1/table1	ADGROUP	adgr1		true	b8ed3471-0696-4b25-a206-2bc7db4f6f36		1535659659314093
-polizei	uon	/keyspace1/table1	ADGROUP	engineering	foo2=bar	false	d908d6dc-cd93-47fd-bffd-22fc99b0f0bf		1535659662650587
-polizei	uon	/keyspace1/table1	CUSTOMER	0384f9cb-2f99-4b58-82e7-59468cb0e6e2	foo=bar	false	264007c7-7849-4702-b3c6-8d9829345f0b		1535659661328237
-polizei	uon	/keyspace1/table1	CUSTOMER	bd48adda-7d54-4353-87c8-a70782d9390c		false	3cf85d13-5c39-4367-bee6-3de7af1879fc		1535659663063015
-polizei	uon	/keyspace1/table1	EMPLOYEE	emp1	foo1=bar	false	c7030c69-9b53-49bc-8cec-99677d74e0fc		1535659662630061
-polizei	uon	/keyspace1/table1	EMPLOYEE	emp1@uber.com	foo1=bar	false	c7030c69-9b53-49bc-8cec-99677d74e0fc		1535659662630061
-polizei	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564
-polizei	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564
-abcabcabcabcabcabcabc
+/*	ADGROUP	finance_groups	i=j	false	c310e0e5-f5ae-4495-ad5b-592f45d5242f		1234567890555
+/teststore/column/base	EMPLOYEE	employee1455@uber.com		false	c43f921c-9ee4-4ba7-8530-0bd3486c3632		1234567890555
+/teststore/column/base	EMPLOYEE	employee555@uber.com		false	c43f921c-9ee4-4ba7-8530-0bd3486c3632		1234567890555
+/teststore/column/base	EMPLOYEE	employee685@uber.com		false	c43f921c-9ee4-4ba7-8530-0bd3486c3632		1234567890555
+/trips/column/base	SERVICE	customer_obsession	client_uuid=3444522453	false	ff9f2166-b418-403f-bbe7-4870f589f536		1234567890555
+/*	ADGROUP	dispatch	i=j	false	0de1744f-46f8-4c6b-b5b5-c0676312c15e		1234567890555
+/*	ADGROUP	mpp_contributors	i=j	false	0de1744f-46f8-4c6b-b5b5-c0676312c15e		1234567890555
+/*	ADGROUP	toolshed_group	i=j	false	0de1744f-46f8-4c6b-b5b5-c0676312c15e		1234567890555
+/entities/column/base	SERVICE	uGraph		false	118baada-70d8-4654-84e5-037417bc4287		1234567890555
+/entities/index/city_idxbase	ADGROUP	cityops_group	i=j	false	626e2be5-476b-4810-93bb-9b365fe9856a		1234567890555
+/entities/index/city_idxbase	EMPLOYEE	cityops-special@uber.com	i=j	false	626e2be5-476b-4810-93bb-9b365fe9856a		1234567890555
+/entities/index/city_idxbase	SERVICE	ad_tech_svc	i=j	false	626e2be5-476b-4810-93bb-9b365fe9856a		1234567890555
