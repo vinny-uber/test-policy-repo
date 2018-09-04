@@ -23,4 +23,3 @@ polizei	uon	/keyspace1/table1	EMPLOYEE	emp1	foo1=bar	false	c7030c69-9b53-49bc-8c
 polizei	uon	/keyspace1/table1	EMPLOYEE	emp1@uber.com	foo1=bar	false	c7030c69-9b53-49bc-8cec-99677d74e0fc		1535659662630061
 polizei	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564
 polizei	uon	/keyspace1/table1	EMPLOYEE	engsecemployee01@uber.com	foo1=bar	false	de2b6e21-5450-4720-b152-8dd39d0f22a2		1535659661767564
-abcabcabcabcabcabcabc
